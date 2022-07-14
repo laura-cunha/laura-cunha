@@ -1,4 +1,4 @@
-### Hi and welcome to my GitHub page!
+### Hi and welcome to my GitHub page! ^^
 
 ---
 ### Programming languages:
